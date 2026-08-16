@@ -2,7 +2,7 @@
   "name": "DSP Math Trainer",
   "short_name": "DSP Trainer",
   "description": "Learn the mathematics and concepts behind digital signal processing.",
-  "start_url": "./dsp-math-trainer.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0a0e16",
